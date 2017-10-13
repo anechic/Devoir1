@@ -110,3 +110,8 @@ footer
     text-align: center;    
 }   
 
+a:visited
+{
+    color:yellow;
+}
+
