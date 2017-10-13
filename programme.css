@@ -94,3 +94,8 @@ footer
     background-color: rgb(70,70,70);
     text-align: center;    
 }   
+
+a:visited
+{
+    color:yellow;
+}
